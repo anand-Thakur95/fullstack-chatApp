@@ -38,4 +38,4 @@ npm run build
 npm start
 ```
 
-Inspired from [As a Programmer](https://www.youtube.com/@asaprogrammer_) on YouTube.
+
